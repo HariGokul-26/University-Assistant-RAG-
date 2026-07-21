@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+groq
+python-dotenv
+python-multipart
+PyMuPDF
+torch
+transformers
+numpy
+scikit-learn
+scipy
+requests
+pydantic

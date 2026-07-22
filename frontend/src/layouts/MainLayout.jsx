@@ -1,6 +1,6 @@
-import Sidebar from "../components/Sidebar/Sidebar";
-import Header from "../components/Layout/Header";
-import ChatWindow from "../components/Chat/ChatWindow";
+import Sidebar from "../components/sidebar/Sidebar";
+import Header from "../components/layout/Header";
+import ChatWindow from "../components/chat/ChatWindow";
 
 function MainLayout() {
 
